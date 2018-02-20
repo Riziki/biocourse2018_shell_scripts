@@ -11,5 +11,6 @@ This script needs to be in the same directory as `goostats`.
 counts the number of parameters on a command line.
 
 For all of the scripts run with `bash` e.g.
+
     bash params.sh
 
